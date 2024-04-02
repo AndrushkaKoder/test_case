@@ -1,0 +1,10 @@
+2024-04-02-04-2024-17-48-09 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user2' for key 'users.login'; 
+2024-04-02-04-2024-17-48-09 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user2' for key 'users.login'; 
+2024-04-02-04-2024-17-52-21 | Файл конфигрурации БД не получен!; 
+2024-04-02-04-2024-17-52-21 | Файл конфигрурации БД не получен!; 
+2024-04-02-04-2024-17-53-32 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin_admin' for key 'users.login'; 
+2024-04-02-04-2024-17-53-41 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin_admin' for key 'users.login'; 
+2024-04-02-04-2024-17-53-41 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin_admin' for key 'users.login'; 
+2024-04-02-04-2024-17-54-24 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin_admin' for key 'users.login'; 
+2024-04-02-04-2024-17-54-24 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin_admin' for key 'users.login'; 
+2024-04-02-04-2024-18-07-33 | SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin_admin' for key 'users.login'; 

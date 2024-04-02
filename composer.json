@@ -14,7 +14,9 @@
     }
   },
   "require": {
-    "php": "^8.0"
+    "php": "^8.0",
+    "ext-pdo": "*",
+    "phpoffice/phpspreadsheet": "^2.0"
   },
   "require-dev": {
     "symfony/var-dumper": "^6.4"
